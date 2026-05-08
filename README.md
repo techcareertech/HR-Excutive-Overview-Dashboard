@@ -42,5 +42,10 @@ The organization was experiencing unexplained talent drain in high-growth depart
 2. Open with **Tableau Desktop** or **Tableau Public**.
 3. (Optional) View the [Executive Summary PDF](https://github.com/techcareertech/HR-Excutive-Overview-Dashboard/blob/fadccbd8e6cdbacd1fc97f63cae2348564eeb3a0/Executive%20Summary.pdf) for a high-level briefing.
 
-**Author:** [Your Name]  
-**Contact:** [Your LinkedIn Link] | [Your Email]
+**Author:** Muhammad Umar  
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/mdumartech  
+- 📧 Email: umar.techcareer@gmail.com  
+
