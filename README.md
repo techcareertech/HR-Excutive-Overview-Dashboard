@@ -38,9 +38,8 @@ The organization was experiencing unexplained talent drain in high-growth depart
 
 ---
 ### How to View
-1. Download the `.twbx` file in the `dashboards/` folder.
-2. Open with **Tableau Desktop** or **Tableau Public**.
-3. (Optional) View the [Executive Summary PDF](https://github.com/techcareertech/HR-Excutive-Overview-Dashboard/blob/fadccbd8e6cdbacd1fc97f63cae2348564eeb3a0/Executive%20Summary.pdf) for a high-level briefing.
+1. Download the HR_retention-analytics-dashboard folder.
+2. (Optional) View the [Executive Summary PDF](https://github.com/techcareertech/HR-Excutive-Overview-Dashboard/blob/fadccbd8e6cdbacd1fc97f63cae2348564eeb3a0/Executive%20Summary.pdf) for a high-level briefing.
 
 **Author:** Muhammad Umar  
 
